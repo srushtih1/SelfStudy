@@ -1,0 +1,2 @@
+# SelfStudy
+Leetcode solved programs
